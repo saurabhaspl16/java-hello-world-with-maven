@@ -1,4 +1,4 @@
-# Building Java Projects with Maven Demo2 with smart commit
+# Building Java Projects with Maven Demo2 with smart commit test
 This guide walks you through using Maven to build a simple Java project.
 
 ## What you’ll build
